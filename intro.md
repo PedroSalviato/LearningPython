@@ -1,1 +1,0 @@
-### Repositório dedicado ao aprendizado, projetos e estudos de Python para análise de dados e ciência de dados. Explorando tutoriais, projetos práticos, bibliotecas da linguagem e meu progresso contínuo nesta jornada! 🐍📊 
